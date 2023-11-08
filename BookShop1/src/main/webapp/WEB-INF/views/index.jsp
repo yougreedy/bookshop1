@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>book테이블연습</title>
+<title>book테이블연습</title>  <!-- 하나 수정해서 올린다. -->
 </head>
 <body>
    <div>
